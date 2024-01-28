@@ -1,6 +1,6 @@
-# Track My Tax - Government Money Tracker
+# TransparentTax - Government Money Tracker
 
-Track My Tax is a web application built on web3, using TRUFFLE and REACTJS, to track government money and promote transparency in financial transactions.
+TransparentTax is a web application built on web3, using TRUFFLE and REACTJS, to track government money and promote transparency in financial transactions.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@ Track My Tax is a web application built on web3, using TRUFFLE and REACTJS, to t
 
 ## Introduction
 
-The Track My Tax project aims to provide a platform that enables citizens to monitor and track government financial transactions. By leveraging web3 technology and incorporating TRUFFLE and REACTJS, the application ensures a secure and decentralized environment.
+The TransparentTax project aims to provide a platform that enables citizens to monitor and track government financial transactions. By leveraging web3 technology and incorporating TRUFFLE and REACTJS, the application ensures a secure and decentralized environment.
 
 ## Installation
 
@@ -46,7 +46,7 @@ To try out our project, follow these steps:
 
 ## Usage
 
-Once the installation is complete and the application is running, you can access the Track My Tax platform through your web browser. The interface should be user-friendly and intuitive.
+Once the installation is complete and the application is running, you can access the TransparentTax platform through your web browser. The interface should be user-friendly and intuitive.
 
 As a user, you can explore government financial transactions, search for specific entries, and view detailed information about each transaction. The transparency of these financial records aims to foster public trust and promote accountability.
 
@@ -65,6 +65,6 @@ If you encounter any errors during the installation or execution of the applicat
 3. Check the terminal or console output for any error messages, and try to identify the cause of the issue. If you encounter any difficulties, consider seeking help from the project's community or support channels.
 
 
-We appreciate your interest in our project and hope that Track My Tax proves to be a valuable tool in promoting financial transparency in government operations. Should you have any questions or feedback, please feel free to reach out to us. Happy tracking!
+We appreciate your interest in our project and hope that TransparentTax proves to be a valuable tool in promoting financial transparency in government operations. Should you have any questions or feedback, please feel free to reach out to us. Happy tracking!
 
 *[Please note that the above content is a sample README file for illustrative purposes. You may need to modify it based on your actual project details and requirements.]*
