@@ -64,23 +64,6 @@ If you encounter any errors during the installation or execution of the applicat
 
 3. Check the terminal or console output for any error messages, and try to identify the cause of the issue. If you encounter any difficulties, consider seeking help from the project's community or support channels.
 
-## Contributing
-
-We welcome contributions from the community to improve Track My Tax further. If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and commit them with descriptive commit messages.
-
-4. Push your changes to your forked repository.
-
-5. Submit a pull request to our main repository, explaining the changes you made.
-
-Our team will review your contribution and merge it if it aligns with the project's goals and standards.
-
-
 
 We appreciate your interest in our project and hope that Track My Tax proves to be a valuable tool in promoting financial transparency in government operations. Should you have any questions or feedback, please feel free to reach out to us. Happy tracking!
 
